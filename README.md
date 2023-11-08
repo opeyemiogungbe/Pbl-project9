@@ -176,4 +176,8 @@ if we you see the changes we had previously made in your GitHub – the job work
 
 We can see the changes in our README.md. Our project is now succesful.
 
+Now our architecture looks like this:
+
+![Screenshot 2023-08-29 073738](https://github.com/opeyemiogungbe/Pbl-project9/assets/136735745/1d31881c-3122-4c25-840a-dd52137285b7)
+
 
